@@ -1,0 +1,57 @@
+.footer {
+   padding-top: 109px;
+}
+
+.link,
+.navigation,
+.contacts,
+.navigation__item,
+.social__item,
+.social {
+   display: inline-block;
+}
+
+.social__item {
+   padding-right: 10px;
+}
+
+.social {
+   padding-left: 70px;
+}
+
+.social__icon {
+   width: 36px;
+   height: 36px;
+}
+
+.navigation__item {
+   margin-top: 0px;
+}
+
+.social__item {
+   margin-top: -3px;
+}
+
+
+.contacts__number {
+   font-style: normal;
+   font-weight: 400;
+   font-size: 26px;
+   line-height: 35px;
+}
+
+.contacts__description {
+   font-style: normal;
+   font-weight: 400;
+   font-size: 13px;
+   line-height: 20px;
+   float: right;
+}
+
+.footer__contacts {
+	padding-top: 0px;
+}
+
+.footer__navigation {
+   margin-left: 85px;
+}

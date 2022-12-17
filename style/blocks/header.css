@@ -1,0 +1,58 @@
+.logo,
+.navigation,
+.contacts,
+.navigation__item {
+   display: inline-block;
+   margin-top: 34px;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 22px;
+   position: relative;
+   z-index: 2;
+}
+
+.logo__img:hover {
+   border-bottom: #8F00FF;
+}
+
+.logo__link {
+   float: left;
+}
+
+.contacts {
+   float: right;
+   padding-top: 20px;
+}
+
+.navigation {
+   margin-left: 207px;
+}
+
+.navigation__item {
+   margin-right: 70px;
+}
+
+.navigation__item:hover {
+   color: #8F00FF;
+}
+
+.navigation__item:last-child {
+   margin-right: 0px;
+}
+
+.contacts__number {
+   font-style: normal;
+   font-weight: 400;
+   font-size: 26px;
+   line-height: 35px;
+}
+
+.contacts__description {
+   font-style: normal;
+   font-weight: 400;
+   font-size: 13px;
+   line-height: 20px;
+   float: right;
+}
+
